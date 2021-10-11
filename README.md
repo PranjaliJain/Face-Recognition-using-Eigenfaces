@@ -11,22 +11,23 @@ To run face recognition using webcam :
 > python Face_Recognition_real_time.py
 
 ## Libraries used:
-opencv
-pandas
-numpy
-fnmatch
-os
-sys
+- opencv
+- pandas
+- numpy
+- fnmatch
+- os
+- sys
 
 
 ## Face Recognition using AT&T dataset :
-### Dataset Used : AT&T face dataset
+#### Dataset Used : AT&T face dataset
 The Face Recognition model has two parts : Train and Test
 
 ## Results :
-The results is an output that shows in which class each test image
+Face Detection: The results is an output that shows in which class each test image
 belongs.
 
+Face Recognition: Capable of recognising faces in realtime using the webcam.
 
 ## References :
 1. Turk, Matthew A., and Alex P. Pentland. "Face recognition using
